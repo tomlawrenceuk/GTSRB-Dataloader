@@ -1,4 +1,4 @@
-# GTSRB-Dataloader
+# GTSRB Dataloader for Pytorch
 
 Loads the official GTSRB (German Traffic Sign Recognition) training and test sets found here:
 http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
